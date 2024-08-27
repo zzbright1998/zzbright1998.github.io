@@ -1,7 +1,7 @@
 ---
 title: "A survey on explainable anomaly detection"
 collection: publications
-permalink: /publication/2023-09-06-paper-title-number-1
+permalink: /publication/2023-09-06 A survey on explainable anomaly detection
 excerpt: 'Zhong Li, Yuxuan Zhu, Matthijs Van Leeuwen.'
 date: 2023-09-06
 venue: 'ACM Transactions on Knowledge Discovery from Data.'
