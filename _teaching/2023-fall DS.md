@@ -1,5 +1,5 @@
 ---
-title: "CSCI-1200 Data Structure"
+title: "CSCI-1200 Data Structure, 2023 Fall"
 collection: teaching
 type: "Undergraduate course teaching assistant"
 permalink: /teaching/2023-fall DS
