@@ -23,7 +23,7 @@ News
 ======
 -[**08/2024**] Our paper titled [On the Robustness of Graph Reduction Against GNN Backdoor](https://arxiv.org/abs/2407.02431) is accepted by AISec'24 *CCS 2024* (acceptance rate: 25%).<br>
 -[**09/2023**] Moved from &#x1F1F3;&#x1F1F1; to &#x1F1FA;&#x1F1F8;. Started my PhD journey at RPI! <br>
--[**03/2023**] Graduated from Leiden University in the Netherlands with a master degree in Computer Science. [thesis](https://theses.liacs.nl/2554)<br>
+-[**03/2023**] Graduated from Leiden University in the Netherlands with a master degree in Computer Science. [Thesis](https://theses.liacs.nl/2554)<br>
 -[**02/2023**] Finished my graduation thesis/internship *Data-driven Nozzle Failures Detection and Classification* at [Canon Production Printing](https://cpp.canon/).<br> 
 
 Services
@@ -31,7 +31,7 @@ Services
 - Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2024<br>
 - Reviewer, International Conference on Distributed Computing Systems (ICDCS), 2024<br>
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+<!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
@@ -62,4 +62,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
