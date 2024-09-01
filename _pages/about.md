@@ -22,9 +22,13 @@ I am driven by a curiosity and a desire to contribute to the advancement of AI i
 News
 ======
 -[**08/2024**] Our paper titled [On the Robustness of Graph Reduction Against GNN Backdoor](https://arxiv.org/abs/2407.02431) is accepted by AISec'24 *CCS 2024* (acceptance rate: 25%).
+
 -[**09/2023**] Moved from :netherlands: to :us:. Started my PhD journey at RPI! 
+
 -[**03/2023**] Graduated from Leiden University in the Netherlands with a master degree in Computer Science.
+
 -[**02/2023**] Finished my graduation thesis/internship at [Canon Production Printing](https://cpp.canon/). 
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
