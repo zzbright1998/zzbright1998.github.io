@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Yuxuan Zhu, a second-year PhD student in Computer Science at Rensselaer Polytechnic Institute (RPI). I received a bachelor’s degree in Electrical Engineering (Medical Informatic track) from Sichuan University in China; and a master’s degree in Computer Science from Leiden University in the Netherlands.
+<!-- Hello! I'm Yuxuan Zhu, a second-year PhD student in Computer Science at Rensselaer Polytechnic Institute (RPI). I received a bachelor’s degree in Electrical Engineering (Medical Informatic track) from Sichuan University in China; and a master’s degree in Computer Science from Leiden University in the Netherlands.
 
 
 Research Interest
@@ -26,13 +26,39 @@ News
 -[**09/2023**] Moved from &#x1F1F3;&#x1F1F1; to &#x1F1FA;&#x1F1F8;. Started my PhD journey at RPI!<br>
 -[**07/2023**] Our paper titled [A Survey on Explainable Anomaly Detection](https://dl.acm.org/doi/full/10.1145/3609333) is accepted by TKDD for publication!<br>
 -[**03/2023**] Graduated from Leiden University in the Netherlands with a master degree in Computer Science [[thesis]](https://theses.liacs.nl/2554).<br>
--[**02/2023**] Finished my graduation thesis/internship *Data-driven Nozzle Failures Detection and Classification* at [Canon Production Printing](https://cpp.canon/).<br> 
+-[**02/2023**] Finished my graduation thesis/internship *Data-driven Nozzle Failures Detection and Classification* at [Canon Production Printing](https://cpp.canon/).
 
 
 Services
 ======
 - Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2024<br>
-- Reviewer, International Conference on Distributed Computing Systems (ICDCS), 2024<br>
+- Reviewer, International Conference on Distributed Computing Systems (ICDCS), 2024<br> -->
+
+
+
+Hello! I'm Yuxuan Zhu, a second-year PhD student in Computer Science at Rensselaer Polytechnic Institute (RPI). I received a bachelor’s degree in Electrical Engineering (Medical Informatics track) from Sichuan University in China, and a master’s degree in Computer Science from Leiden University in the Netherlands.
+
+## Research Interests
+
+My research primarily focuses on the intersection of machine learning, with a special interest in Large Language Models (LLMs) and Graph Neural Networks (GNNs). I also have research experience in Explainable AI (XAI) and anomaly detection.
+
+- **Large Language Models (LLMs):** Exploring challenges related to the efficiency of LLMs.
+- **Graph Neural Networks (GNNs):** Investigating the robustness, security, and interpretability of GNNs, especially in the context of backdoor attacks and defenses.
+
+I am driven by curiosity and a desire to contribute to the advancement of AI in solving complex, real-world problems.
+
+## News
+
+- [**08/2024**] Our paper titled [On the Robustness of Graph Reduction Against GNN Backdoor](https://arxiv.org/abs/2407.02431) was accepted by AISec'24 *CCS 2024* (acceptance rate: 25%) for publication!<br>
+- [**09/2023**] Moved from 🇳🇱 to 🇺🇸. Started my PhD journey at RPI!<br>
+- [**07/2023**] Our paper titled [A Survey on Explainable Anomaly Detection](https://dl.acm.org/doi/full/10.1145/3609333) was accepted by TKDD for publication!<br>
+- [**03/2023**] Graduated from Leiden University in the Netherlands with a master’s degree in Computer Science [[thesis]](https://theses.liacs.nl/2554).<br>
+- [**02/2023**] Completed my graduation thesis/internship *Data-driven Nozzle Failures Detection and Classification* at [Canon Production Printing](https://cpp.canon/).
+
+## Services
+
+- Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2024<br>
+- Reviewer, International Conference on Distributed Computing Systems (ICDCS), 2024
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
