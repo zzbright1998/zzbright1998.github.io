@@ -21,9 +21,9 @@ I am driven by a curiosity and a desire to contribute to the advancement of AI i
 
 News
 ======
--[**08/2024**] Our paper titled [On the Robustness of Graph Reduction Against GNN Backdoor](https://arxiv.org/abs/2407.02431) is accepted by AISec'24 *CCS 2024* (acceptance rate: 25%).
+-[**08/2024**] Our paper titled [On the Robustness of Graph Reduction Against GNN Backdoor](https://arxiv.org/abs/2407.02431) is accepted by AISec'24 *CCS 2024* (acceptance rate: 25%). <br>
 
--[**09/2023**] Moved from :netherlands: to :us:. Started my PhD journey at RPI! 
+-[**09/2023**] <p>Moved from &#x1F1F3;&#x1F1F1; to &#x1F1FA;&#x1F1F8;.</p> Started my PhD journey at RPI! 
 
 -[**03/2023**] Graduated from Leiden University in the Netherlands with a master degree in Computer Science.
 
