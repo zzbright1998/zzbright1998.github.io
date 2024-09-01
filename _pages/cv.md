@@ -6,11 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[CV.pdf]('https://zzbright1998.github.io/files/CV.pdf')
+<!-- 
 {% include base_path %}
 
-[CV.pdf]('/files/CV.pdf')
-<!-- 
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
