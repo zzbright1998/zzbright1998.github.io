@@ -7,24 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Yuxuan Zhu, a PhD student in Computer Science at Rensselaer Polytechnic Institute (RPI). My research primarily focuses on the intersection of machine learning and artificial intelligence, with a special interest in Graph Neural Networks (GNNs) and Large Language Models (LLMs). 
+Hello! I'm Yuxuan Zhu, a second-year PhD student in Computer Science at Rensselaer Polytechnic Institute (RPI). I received a bachelor’s degree in Electrical Engineering (Medical Informatic track) from Sichuan University in China; and a master’s degree in Computer Science from Leiden University in the Netherlands.
 
 
 Research Interest
 ======
-My research interests lie at the crossroads of AI for science, with a particular focus on:
+My research primarily focuses on the intersection of machine learning, with a special interest in Large Language Models (LLMs) and Graph Neural Networks (GNNs). I also have research experience on XAI and anomaly detection.
 
+- **Large Language Models (LLMs):** Exploring the challenges related to efficiency aspect of LLMs.
 - **Graph Neural Networks (GNNs):** Investigating the robustness, security, and interpretability of GNNs, especially in the context of backdoor attacks and defenses.
-- **Large Language Models (LLMs):** Exploring the challenges related to data leakage and privacy in LLMs, with the goal of developing more secure and reliable models.
-
+ 
 I am driven by a curiosity and a desire to contribute to the advancement of AI in solving complex, real-world problems.
+
 
 News
 ======
--[**08/2024**] Our paper titled [On the Robustness of Graph Reduction Against GNN Backdoor](https://arxiv.org/abs/2407.02431) is accepted by AISec'24 *CCS 2024* (acceptance rate: 25%).<br>
--[**09/2023**] Moved from &#x1F1F3;&#x1F1F1; to &#x1F1FA;&#x1F1F8;. Started my PhD journey at RPI! <br>
+-[**08/2024**] Our paper titled [On the Robustness of Graph Reduction Against GNN Backdoor](https://arxiv.org/abs/2407.02431) is accepted by AISec'24 *CCS 2024* (acceptance rate: 25%) for publication!<br>
+-[**09/2023**] Moved from &#x1F1F3;&#x1F1F1; to &#x1F1FA;&#x1F1F8;. Started my PhD journey at RPI!<br>
+-[**07/2023**] Our paper titled [A Survey on Explainable Anomaly Detection](https://dl.acm.org/doi/full/10.1145/3609333) is accepted by TKDD for publication!<br>
 -[**03/2023**] Graduated from Leiden University in the Netherlands with a master degree in Computer Science [Thesis](https://theses.liacs.nl/2554).<br>
 -[**02/2023**] Finished my graduation thesis/internship *Data-driven Nozzle Failures Detection and Classification* at [Canon Production Printing](https://cpp.canon/).<br> 
+
 
 Services
 ======
@@ -32,11 +35,11 @@ Services
 - Reviewer, International Conference on Distributed Computing Systems (ICDCS), 2024<br>
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-6. Check status by going to the repository settings, in the "GitHub pages" section
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+2. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+3. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+4. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+5. Check status by going to the repository settings, in the "GitHub pages" section
 
 
 
