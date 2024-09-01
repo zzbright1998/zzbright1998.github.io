@@ -21,13 +21,10 @@ I am driven by a curiosity and a desire to contribute to the advancement of AI i
 
 News
 ======
--[**08/2024**] Our paper titled [On the Robustness of Graph Reduction Against GNN Backdoor](https://arxiv.org/abs/2407.02431) is accepted by AISec'24 *CCS 2024* (acceptance rate: 25%). <br>
-
--[**09/2023**] <p>Moved from &#x1F1F3;&#x1F1F1; to &#x1F1FA;&#x1F1F8;.</p> Started my PhD journey at RPI! 
-
--[**03/2023**] Graduated from Leiden University in the Netherlands with a master degree in Computer Science.
-
--[**02/2023**] Finished my graduation thesis/internship at [Canon Production Printing](https://cpp.canon/). 
+-[**08/2024**] Our paper titled [On the Robustness of Graph Reduction Against GNN Backdoor](https://arxiv.org/abs/2407.02431) is accepted by AISec'24 *CCS 2024* (acceptance rate: 25%).<br>
+-[**09/2023**] Moved from &#x1F1F3;&#x1F1F1; to &#x1F1FA;&#x1F1F8;. Started my PhD journey at RPI! <br>
+-[**03/2023**] Graduated from Leiden University in the Netherlands with a master degree in Computer Science. [thesis](https://theses.liacs.nl/2554)<br>
+-[**02/2023**] Finished my graduation thesis/internship at [Canon Production Printing](https://cpp.canon/).<br> 
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
