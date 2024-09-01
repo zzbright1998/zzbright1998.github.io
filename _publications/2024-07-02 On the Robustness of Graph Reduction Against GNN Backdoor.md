@@ -2,7 +2,7 @@
 title: "On the Robustness of Graph Reduction Against GNN Backdoor"
 collection: publications
 permalink: /publication/2024-07-02 On the Robustness of Graph Reduction Against GNN Backdoor
-excerpt: "Yuxuan Zhu, Michael Mandulak, Kerui Wu, George Slota, Yuseok Jeon, Ka-Ho Chow, Lei Yu.<br/><img src='/images/graph.png' width='300'>"
+excerpt: "Yuxuan Zhu, Michael Mandulak, Kerui Wu, George Slota, Yuseok Jeon, Ka-Ho Chow, Lei Yu.<br/><img src='/images/graph.png' width='500'>"
 date: 2024-07-02
 venue: 'AISec 24: 17th ACM Workshop on Artificial Intelligence and Security'
 paperurl: 'https://arxiv.org/abs/2407.02431'
