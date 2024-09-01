@@ -2,6 +2,7 @@
 _site/
 _portfolio
 _posts
+_pages/portfolio.html
 
 # Ignore the directory for local files during development
 local/
