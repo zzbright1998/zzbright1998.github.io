@@ -61,8 +61,8 @@ I am driven by curiosity and a desire to contribute to the advancement of AI in 
 - Reviewer, International Conference on Distributed Computing Systems (ICDCS), 2024
 
 
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=HTfwDLoO6eWWLI4FzGn98lhp5itcaBpP7QZ_F1b8AaY&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HTfwDLoO6eWWLI4FzGn98lhp5itcaBpP7QZ_F1b8AaY&cl=ffffff&w=a" width=' 200'></script>
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
