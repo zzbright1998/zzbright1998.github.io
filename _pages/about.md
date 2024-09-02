@@ -42,8 +42,8 @@ Hello! I'm Yuxuan Zhu, a second-year PhD student in Computer Science at Renssela
 
 My research primarily focuses on the intersection of machine learning, with a special interest in Large Language Models (LLMs) and Graph Neural Networks (GNNs). I also have research experience in Explainable AI (XAI) and anomaly detection.
 
-- **Large Language Models (LLMs):** Exploring challenges related to the efficiency of LLMs.
-- **Graph Neural Networks (GNNs):** Investigating the robustness, security, and interpretability of GNNs, especially in the context of backdoor attacks and defenses.
+- **LLM:** Exploring challenges related to the efficiency of LLMs.
+- **GNN:** Investigating the robustness, security, and interpretability of GNNs, especially in the context of backdoor attacks and defenses.
 
 I am driven by curiosity and a desire to contribute to the advancement of AI in solving complex, real-world problems.
 
