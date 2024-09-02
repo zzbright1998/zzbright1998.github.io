@@ -62,7 +62,7 @@ I am driven by curiosity and a desire to contribute to the advancement of AI in 
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HTfwDLoO6eWWLI4FzGn98lhp5itcaBpP7QZ_F1b8AaY&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HTfwDLoO6eWWLI4FzGn98lhp5itcaBpP7QZ_F1b8AaY&cl=ffffff&w=a" width='300'></script>
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
