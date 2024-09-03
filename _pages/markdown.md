@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Photography Gallery"
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 ## Locations of key files/directories
+I'm also a photographer.
+Enjoy some pictures with me!
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
