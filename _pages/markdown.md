@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /photo/
 title: "Photography Gallery"
 author_profile: true
 redirect_from: 
@@ -7,7 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
 I'm also a photographer.
 Enjoy some pictures with me!
 
