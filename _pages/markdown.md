@@ -10,6 +10,14 @@ redirect_from:
 I'm also a photographer.
 Enjoy some pictures with me!
 
+## 2024
+
+## 2023
+
+## 2022
+
+## 2021
+
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
