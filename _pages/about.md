@@ -36,7 +36,7 @@ Services
 
 
 
-Hello! I am Yuxuan Zhu, a second-year PhD student in Computer Science at Rensselaer Polytechnic Institute (RPI), advised by Professor [Mohammed Amiri](https://mmamiri.github.io/). I received a bachelor's degree in Electrical Engineering (Medical Informatics track) from Sichuan University in China and a master's degree in Computer Science from Leiden University in the Netherlands, where I was advised by Professor [Matthijs van Leeuwen](https://www.patternsthatmatter.org/) and Dr. [Zhong Li](https://zhonglifr.github.io//).
+Hello! I am Yuxuan Zhu, a second-year PhD student in Computer Science at Rensselaer Polytechnic Institute (RPI), advised by Prof. [Mohammed Amiri](https://mmamiri.github.io/). I received a bachelor's degree in Electrical Engineering (Medical Informatics track) from Sichuan University in China and a master's degree in Computer Science from Leiden University in the Netherlands, where I was advised by Prof. [Matthijs van Leeuwen](https://www.patternsthatmatter.org/) and Dr. [Zhong Li](https://zhonglifr.github.io//).
 
 ## Research Interests
 
