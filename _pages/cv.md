@@ -8,5 +8,5 @@ redirect_from:
 ---
 My latest CV can be downloaded with this link:
 
-[CV.pdf](https://zzbright1998.github.io/files/CV.pdf)
+[CV.pdf](https://zzbright1998.github.io/files/CV1.pdf)
 
