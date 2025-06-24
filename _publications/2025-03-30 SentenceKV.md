@@ -1,5 +1,5 @@
 ---
-title: "SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching.md"
+title: "SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching"
 collection: publications
 permalink: /publication/2025-03-30 SentenceKV
 excerpt: "Yuxuan Zhu, Ali Falahati, David H Yang, Mohammad Mohammadi Amiri.<br/><img src='/images/sentencekv.png' width='600'>"
