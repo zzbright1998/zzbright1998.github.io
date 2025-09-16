@@ -62,6 +62,11 @@ I am driven by a deep curiosity and a commitment to advancing AI to solve comple
 - Reviewer, Transactions on Information Forensics & Security<br>
 - Reviewer, The International Conference on Learning Representations (ICLR), 2025<br>
 - Reviewer, Empirical Methods in Natural Language Processing (EMNLP), 2025
+
+
+## Awards
+- Conference on Language Modeling (COLM) 2025 Student Travel Grant.
+
 <br>
 <br>
 <br>
