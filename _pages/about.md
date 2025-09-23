@@ -36,18 +36,19 @@ Services
 
 
 
-Hello! I am Yuxuan Zhu, a second-year PhD student in Computer Science at Rensselaer Polytechnic Institute (RPI), advised by Prof. [Mohammad Mohammadi Amiri](https://mmamiri.github.io/). I received a bachelor's degree in Electrical Engineering (Medical Informatics track) from Sichuan University in China and a master's degree in Computer Science from Leiden University in the Netherlands, where I was advised by Prof. [Matthijs van Leeuwen](https://www.patternsthatmatter.org/) and Dr. [Zhong Li](https://zhonglifr.github.io//).
+Hello! I am Yuxuan Zhu, a third-year PhD student in Computer Science at Rensselaer Polytechnic Institute (RPI), advised by Prof. [Mohammad Mohammadi Amiri](https://mmamiri.github.io/). I received a bachelor's degree in Electrical Engineering (Medical Informatics track) from Sichuan University in China and a master's degree in Computer Science from Leiden University in the Netherlands, where I was advised by Prof. [Matthijs van Leeuwen](https://www.patternsthatmatter.org/) and Dr. [Zhong Li](https://zhonglifr.github.io//).
 
 ## Research Interests
 
 My research focuses on the intersection of efficiency and robustness in machine learning models, with a particular emphasis on Large Language Models (LLMs) and Graph Neural Networks (GNNs). I also have experience in Explainable AI (XAI) and anomaly detection.
 
 - **LLM:** Investigating challenges related to improving the efficiency of LLMs, with a special focus on KV cache compression.
-- **GNN:** Exploring the robustness, security, and interpretability of GNNs, particularly in the context of backdoor attacks and defense mechanisms.
+- **GNN:** Exploring the robustness, security, and interpretability of GNNs.
 
 I am driven by a deep curiosity and a commitment to advancing AI to solve complex, real-world problems.
 
 ## News
+- [**09/2025**] Our paper titled [Scalable, Explainable and Provably Robust Anomaly Detection with One-Step Flow Matching](https://neurips.cc/virtual/2025/poster/116486) was accepted by NeurIPS 2025 for publication!<br>
 - [**07/2025**] Our paper titled [SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching](https://arxiv.org/abs/2504.00970) was accepted by Conference on Language Modeling (COLM) 2025 for publication!<br>
 - [**08/2024**] Our paper titled [On the Robustness of Graph Reduction Against GNN Backdoor](https://dl.acm.org/doi/abs/10.1145/3689932.3694762) was accepted by AISec'24 *CCS 2024* (acceptance rate: 25%) for publication!<br>
 - [**09/2023**] Moved from 🇳🇱 to 🇺🇸. Started my PhD journey at RPI!<br>
