@@ -48,7 +48,7 @@ My research focuses on the intersection of efficiency and robustness in machine 
 I am driven by a deep curiosity and a commitment to advancing AI to solve complex, real-world problems.
 
 ## News
-- [**09/2025**] One paper about Low-Rank KV Cache Compression is now available on arXiv. [[Paper]](https://arxiv.org/abs/2509.21623)<br>
+- [**09/2025**] One paper about Low-Rank KV Cache Compression is now available on arXiv. [[paper]](https://arxiv.org/abs/2509.21623)<br>
 - [**09/2025**] Our paper titled [Scalable, Explainable and Provably Robust Anomaly Detection with One-Step Flow Matching](https://neurips.cc/virtual/2025/poster/116486) was accepted by NeurIPS 2025 for publication!<br>
 - [**07/2025**] Our paper titled [SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching](https://arxiv.org/abs/2504.00970) was accepted by Conference on Language Modeling (COLM) 2025 for publication! [[code]](https://github.com/zzbright1998/SentenceKV) <br>
 - [**08/2024**] Our paper titled [On the Robustness of Graph Reduction Against GNN Backdoor](https://dl.acm.org/doi/abs/10.1145/3689932.3694762) was accepted by AISec@*CCS 2024* for publication!<br>
