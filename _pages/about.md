@@ -51,7 +51,7 @@ I am driven by a deep curiosity and a commitment to advancing AI to solve comple
 - [**09/2025**] One paper about Low-Rank KV Cache Compression is now available on arXiv. [[Paper]](https://arxiv.org/abs/2509.21623)<br>
 - [**09/2025**] Our paper titled [Scalable, Explainable and Provably Robust Anomaly Detection with One-Step Flow Matching](https://neurips.cc/virtual/2025/poster/116486) was accepted by NeurIPS 2025 for publication!<br>
 - [**07/2025**] Our paper titled [SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching](https://arxiv.org/abs/2504.00970) was accepted by Conference on Language Modeling (COLM) 2025 for publication! [[code]](https://github.com/zzbright1998/SentenceKV) <br>
-- [**08/2024**] Our paper titled [On the Robustness of Graph Reduction Against GNN Backdoor](https://dl.acm.org/doi/abs/10.1145/3689932.3694762) was accepted by AISec'24 *CCS 2024* (acceptance rate: 25%) for publication!<br>
+- [**08/2024**] Our paper titled [On the Robustness of Graph Reduction Against GNN Backdoor](https://dl.acm.org/doi/abs/10.1145/3689932.3694762) was accepted by AISec@*CCS 2024* for publication!<br>
 - [**09/2023**] Moved from 🇳🇱 to 🇺🇸. Started my PhD journey at RPI!<br>
 - [**07/2023**] Our paper titled [A Survey on Explainable Anomaly Detection](https://dl.acm.org/doi/full/10.1145/3609333) was accepted by TKDD for publication!<br>
 - [**03/2023**] Graduated from Leiden University in the Netherlands with a master’s degree in Computer Science [[thesis]](https://theses.liacs.nl/2554).<br>
