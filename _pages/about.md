@@ -39,16 +39,13 @@ Services
 Hello! I am Yuxuan Zhu, a third-year PhD student in Computer Science at Rensselaer Polytechnic Institute (RPI), advised by Prof. [Mohammad Mohammadi Amiri](https://mmamiri.github.io/). I received a bachelor's degree in Electrical Engineering (Medical Informatics track) from Sichuan University in China and a master's degree in Computer Science from Leiden University in the Netherlands, where I was advised by Prof. [Matthijs van Leeuwen](https://www.patternsthatmatter.org/) and Dr. [Zhong Li](https://zhonglifr.github.io//).
 
 
-<span style="color: red;">I am looking for a summer 2026 research internship in LLM efficiency (inference, reasoning, agentic methods, etc.). I am also open to research collaboration opportunities.</span>
+<span style="color: red;">I am looking for research internship in LLM efficiency (inference, reasoning, agentic methods, etc.). I am also open to research collaboration opportunities.</span>
 
 ## Research Interests
 
-My research focuses on the intersection of efficiency and robustness in machine learning models, with a particular emphasis on Large Language Models (LLMs) and Graph Neural Networks (GNNs). I also have experience in Explainable AI (XAI) and anomaly detection.
+My research interests lie in efficient and reliable machine learning, with a current primary focus on Large Language Models (LLMs). I am particularly interested in making LLM inference more memory and computation efficient, with recent work on KV cache compression, adaptive memory mechanisms, and reasoning-aware generation. I am also interested in improving the efficiency of multimodal models and agentic AI systems.
 
-- **LLM:** Investigating challenges related to improving the efficiency of LLMs, with a special focus on KV cache compression.
-- **GNN:** Exploring the robustness, security, and interpretability of GNNs.
-
-I am driven by a deep curiosity and a commitment to advancing AI to solve complex, real-world problems.
+I also have research experience in Graph Neural Networks (GNNs), particularly in robustness, security, and interpretability, as well as broader experience in Explainable AI (XAI) and anomaly detection.
 
 ## News
 - [**03/2026**] I will join IBM Research for an research internship this summer.
@@ -66,7 +63,7 @@ I am driven by a deep curiosity and a commitment to advancing AI to solve comple
 - Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2024,2025<br>
 - Reviewer, International Conference on Distributed Computing Systems (ICDCS), 2024<br>
 - Reviewer, Transactions on Information Forensics & Security<br>
-- Reviewer, The International Conference on Learning Representations (ICLR), 2025<br>
+- Reviewer, The International Conference on Learning Representations (ICLR), 2025,2026<br>
 - Reviewer, Empirical Methods in Natural Language Processing (EMNLP), 2025
 
 
